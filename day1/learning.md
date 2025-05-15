@@ -36,3 +36,9 @@
 
     round 2(variables and data types)
   - 7th one:-
+
+    - number system:- so binary(base2) decimal(base10) octal(base8) hexadecimal(base16)
+    - integer: - so we can represnt in 3 ways
+      - braced
+      - funtional
+      - assignment
