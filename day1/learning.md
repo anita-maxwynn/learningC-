@@ -36,5 +36,3 @@
 
     round 2(variables and data types)
   - 7th one:-
-
-    - dsdkvbdskv:-
