@@ -22,11 +22,16 @@
 
     shows the warnings
   - 4th one(statement and functions):-
-  - - statement:- basic unit of computation
+
+    - statement:- basic unit of computation
     - function :- bloack of code that does some work which can be reused
   - 5th one(input and output):-
 
     - cin cout cerr clog ->easy
     - getline-> interesting so it helps in read everything you give like space dinosaure evrything will read whole sentence
       then do stuff
-    -
+  - 6th one(C++ Program Execution Model & Memory Model):-
+
+    - ![C++ Execution Model](umm.png)
+  - 7th one:-
+  -
