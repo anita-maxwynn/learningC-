@@ -4,7 +4,7 @@
   - 1st one(in the beninging):-
 
     - entry point -> **int main(),
-    - **iostream -> provides input and output as stream as c++ doem't have it (noob)
+    - **iostream -> provides input and output as stream as c++ doesn't have it (noob)
     - printed my details 10 times
   - 2nd one(comment):-
 
@@ -24,14 +24,15 @@
   - 4th one(statement and functions):-
 
     - statement:- basic unit of computation
-    - function :- bloack of code that does some work which can be reused
+    - function :- block of code that does some work which can be reused
   - 5th one(input and output):-
 
     - cin cout cerr clog ->easy
-    - getline-> interesting so it helps in read everything you give like space dinosaure evrything will read whole sentence
+    - getline-> interesting so it helps in read everything you give like space dinosaure everything will read whole sentence
       then do stuff
   - 6th one(C++ Program Execution Model & Memory Model):-
 
     - ![C++ Execution Model](umm.png)
+
+    round 2(variables and data types)
   - 7th one:-
-  -
