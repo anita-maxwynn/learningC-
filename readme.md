@@ -9,3 +9,5 @@ Day3 ->[View Day 3 short notes](day3/readme.md)
 Day4 ->[View Day 4 Short notes](day4/readme.md)
 
 Day5 ->[View Day 5 Short notes](day5/readme.md)
+
+Day6 ->[View Day 6 Short notes](day6/readme.md)
