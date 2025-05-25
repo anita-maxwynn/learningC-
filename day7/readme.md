@@ -2,7 +2,7 @@
 
 ---
 
-## - Day6:-
+## - Day7:-
 
 - 1st one(lamda function):-
 
