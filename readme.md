@@ -1,23 +1,35 @@
-# Index: -
+# 🚀 C++ Learning Journey: 10 Days to Mastery
 
-Day1 -> [View Day 1 short notes](day01/readme.md)
+**📚 Course**: [Learn C++ – Full Course for Beginners](https://www.youtube.com/watch?v=8jLOx1hD3_o)
+**🎓 By**: freeCodeCamp.org
+**🛠️ Platform**: YouTube
+**🧠 What:** Modern C++ (from basics to OOP, templates, and polymorphism)
 
-Day2 ->[View Day 2 short notes](day02/readme.md)
+---
 
-Day3 ->[View Day 3 short notes](day03/readme.md)
+## 📅 Progress Index
 
-Day4 ->[View Day 4 Short notes](day04/readme.md)
+| 📆 Day      | 📝 Notes                                        | 🔗 Link                      |
+| ----------- | ----------------------------------------------- | ---------------------------- |
+| ✅ Day 1    | 🚪 Setup, Hello World, I/O, Memory Model        | [View Notes](day01/readme.md)   |
+| ✅ Day 2    | 🧮 Variables, Types, Operations, Casting        | [View Notes](day02/readme.md)   |
+| ✅ Day 3    | 🧠 Output formatting, Math, Control Flow        | [View Notes](day03/readme.md)   |
+| ✅ Day 4    | 🔁 Loops, Arrays, Sizeof, Bounds                | [View Notes](day04/readme.md)   |
+| ✅ Day 5    | ✨ Pointers, Memory Leaks, References           | [View Notes](day05/readme.md)   |
+| ✅ Day 6    | 🛠️ Functions, Overloading, Scope              | [View Notes](day06/readme.md)   |
+| ✅ Day 7    | 🧩 Lambdas, Templates, Concepts (Part 1)        | [View Notes](day07/readme.md)   |
+| ✅ Day 8    | 🏗️ Classes,`this`, Constructors, Structs    | [View Notes](day08/readme.md)   |
+| ✅ Day 9    | 🧬 Inheritance (public, private, protected)     | [View Notes](day09/readme.md)   |
+| ✅ Day 10.1 | 🧠 Polymorphism, Virtuals, Slicing              | [View Notes](day10.1/readme.md) |
+| ✅ Day 10.2 | 🧨 Abstract Classes,`final`, `dynamic_cast` | [View Notes](day10.2/readme.md) |
 
-Day5 ->[View Day 5 Short notes](day05/readme.md)
+---
 
-Day6 ->[View Day 6 Short notes](day06/readme.md)
+🎉 **Status**: All chapters of the freeCodeCamp C++ course complete!
+💻 Repo: [LearningC++](https://github.com/anita-maxwynn/learningC-)
+📦 Coming next: Custom Compiler + LLVM IR
 
-Day7 ->[View Day 7 Short Notes](day07/readme.md)
+---
 
-Day8 ->[View Day 8 Short Notes](day08/readme.md)
-
-Day9 ->[View Day 9 Short Notes](day09/readme.md)
-
-Day10 ->[View Day 10.1 Short Notes](day10.1/readme.md)
-
-Day10->[View Day 10.2 Short Notes](day10.2/readme.md)
+> 🧵 Follow the journey on [X/Twitter](https://x.com/manOf_100)
+> 💬 DM me for help, collab, or debugging rants.
