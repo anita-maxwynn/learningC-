@@ -19,3 +19,5 @@ Day8 ->[View Day 8 Short Notes](day08/readme.md)
 Day9 ->[View Day 9 Short Notes](day09/readme.md)
 
 Day10 ->[View Day 10.1 Short Notes](day10.1/readme.md)
+
+Day10->[View Day 10.2 Short Notes](day10.2/readme.md)
