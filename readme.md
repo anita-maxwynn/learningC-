@@ -28,9 +28,10 @@
 
 ---
 
-🎉 **Status**: All chapters of the freeCodeCamp C++ course complete!
+🎉 **Status**: All chapters of the freeCodeCamp C++ course complete!  
 💻 Repo: [LearningC++](https://github.com/anita-maxwynn/learningC-)
-📦 Coming next: Custom Compiler + LLVM IR
+
+<!-- 📦 Coming next: Custom Compiler + LLVM IR -->
 
 ---
 
